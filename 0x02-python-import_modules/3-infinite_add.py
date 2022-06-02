@@ -8,3 +8,4 @@ if __name__ == "__main__":
             suma += int(a)
         i += 1
     print(suma)
+
